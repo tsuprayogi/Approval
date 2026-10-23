@@ -1,0 +1,9 @@
+D:\Repos\Approval\Approval\Approval\bin\Debug\Approval.exe.config
+D:\Repos\Approval\Approval\Approval\bin\Debug\Approval.exe
+D:\Repos\Approval\Approval\Approval\bin\Debug\Approval.pdb
+D:\Repos\Approval\Approval\Approval\bin\Debug\SAPBusinessOneSDK.dll
+D:\Repos\Approval\Approval\Approval\obj\Debug\Approval.csprojAssemblyReference.cache
+D:\Repos\Approval\Approval\Approval\obj\Debug\Approval.csproj.CoreCompileInputs.cache
+D:\Repos\Approval\Approval\Approval\obj\Debug\Approval.csproj.CopyComplete
+D:\Repos\Approval\Approval\Approval\obj\Debug\Approval.exe
+D:\Repos\Approval\Approval\Approval\obj\Debug\Approval.pdb
